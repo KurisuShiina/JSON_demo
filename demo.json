@@ -1,0 +1,34 @@
+{
+    "TimeManage":"Time Management",
+    "how to do":"how to do",
+    "date":20181119,
+    "members":[
+        {
+            "item1":"Arrange",
+            "definition":"assembly",
+            "effect":[
+                "increase efficiency",
+                "lower the cost",
+                "more radiant"
+            ]
+        },
+        {
+            "item2":"self-decipline",
+            "definition":"give me freedom",
+            "effect":[
+                "in an order",
+                "law",
+                "abandon sth unnecessary"
+            ]
+        },
+        {
+            "item3":"concentration",
+            "difinition":"focus",
+            "effect":[
+                "have a dream",
+                "strive",
+                "give no fuck about "
+            ]
+        }
+    ]
+}
